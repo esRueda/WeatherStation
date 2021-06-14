@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1365</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1023</ColumnWidth1>
+        <ColumnWidth2>273</ColumnWidth2>
+        <ColumnWidth3>68</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>104</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          <item>Disassembly</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>20</item>
+        </col-widths>
+        <DisasmHistory>
+          <item>0x400E143C</item>
+        </DisasmHistory>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ShowCodeCoverage>0</ShowCodeCoverage>
+        <ShowInstrProfiling>0</ShowInstrProfiling>
+      </Disassembly>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+          
+          
+        <item>i</item><item>0x400E143C</item><item>*(unsigned int *)0x400E143C</item><item>0x400E143C</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>199</item></col-widths>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+      </WATCH_1>
+      <Register/>
+    <StaticWatch><expressions><item>msTicks</item><item>i</item><item>counter</item><item>temp</item><item>Key_Btn</item><item>check_value</item><item>return_of_Temp</item><item>ret</item><item>tempcount</item><item>RA</item><item>RB</item><item>light_intensity</item><item>templogging</item><item>pos</item><item>alarmchanged</item><item>action</item><item>time</item><item>week</item><item>day</item><item>action</item><item>low_alarm</item><item>high_alarm</item><item>alarm</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>122</item><item>150</item><item>100</item><item>116</item></col-widths></StaticWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2070-16318</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-1547-16328</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12818-16321</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Exercise</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18133-1057</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+              
+            <REG1>0</REG1><REG2>390</REG2><Group>10</Group><States>9</States><State0>DACC_WPMR</State0><State1>PIOB_OSR</State1><State2>PIOC_ODSR</State2><State3>PIOC_PDSR</State3><State4>PIOD_PDSR</State4><State5>PWM_CDTY1</State5><State6>TC0_RA0</State6><State7>TC0_RB0</State7><State8>TC0_SR0</State8></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-30546-21660</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\display.c</Filename><XPos>0</XPos><YPos>171</YPos><SelStart>3586</SelStart><SelEnd>3586</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\exceptions.c</Filename><XPos>0</XPos><YPos>135</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logging.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\pin_init.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>23</SelStart><SelEnd>23</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\servo.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>769</SelStart><SelEnd>772</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup_sam3x.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\system_sam3x.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\tempsensor.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1699</SelStart><SelEnd>1699</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Keypad.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1998</SelStart><SelEnd>1998</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\lightsensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\lightsensor.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>167</SelStart><SelEnd>182</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>56</YPos><SelStart>2193</SelStart><SelEnd>2193</SelEnd></Tab><ActiveTab>11</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\menu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\menu.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>177</SelStart><SelEnd>177</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02711630><key>iaridepm.enu1</key></Toolbar-02711630></Sizes></Row0><Row1><Sizes><Toolbar-154dad58><key>debuggergui.enu1</key></Toolbar-154dad58></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>578</Bottom><Right>178</Right><x>-2</x><y>-2</y><xscreen>1242</xscreen><yscreen>173</yscreen><sizeHorzCX>862500</sizeHorzCX><sizeHorzCY>211491</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>709046</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>578</Bottom><Right>186</Right><x>-2</x><y>-2</y><xscreen>1242</xscreen><yscreen>173</yscreen><sizeHorzCX>862500</sizeHorzCX><sizeHorzCY>211491</sizeHorzCY><sizeVertCX>130556</sizeVertCX><sizeVertCY>709046</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>184</Left><Bottom>578</Bottom><Right>660</Right><x>184</x><y>-2</y><xscreen>1653</xscreen><yscreen>212</yscreen><sizeHorzCX>1147917</sizeHorzCX><sizeHorzCY>259169</sizeHorzCY><sizeVertCX>330556</sizeVertCX><sizeVertCY>709046</sizeVertCY></Rect></Wnd5></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>171</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>173</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>211491</sizeHorzCY><sizeVertCX>862500</sizeVertCX><sizeVertCY>211491</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
